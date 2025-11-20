@@ -22,10 +22,3 @@
 - Overall: The database contains the amount of carbon emissions per capital in a country as well as total carbon emission in countries over the world. 
 - Tool: SQL to clean and analyze, PowerBI to visualize
 
-###### b. Reduced Carbon Emission Database: 
-- Source: [UN - environment program](https://www.unep.org/interactive/six-sector-solution-climate-change/)
-- Overall: This database contains information about how much carbon emissions can be reduced in six different sector. 
-- Tool: PowerBI to visualize 
-
-
-
